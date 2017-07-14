@@ -20,4 +20,5 @@ Cara Penggunaan:
 
 
 Thanks To:
-<br><a href="ad4msan.com" target="_blank" rel="noopener">Ad4msan</a> = IP Address Kumpulbagi
+<br><p>This is <a href="http://ad4msan.com/" title="Ad4msan">
+Ad4msan</a> Ad4msan.</p>
