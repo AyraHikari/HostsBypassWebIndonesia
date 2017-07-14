@@ -1,5 +1,5 @@
 # Hosts File 
-File hosts ini digunakan untuk men-bypass web yang diblokir oleh pemerintah Indonesia. Jika anda sudah memakai hosts file ini, tidak memerlukan VPN lagi.
+File hosts ini digunakan untuk men-bypass web yang diblokir oleh pemerintah Indonesia. Jika anda sudah memakai hosts file ini, tidak memerlukan VPN dan tool semacamnya.
 
 List:
 1) Kumpulbagi (kbagi.com)
@@ -20,4 +20,4 @@ Jika di list diatas ada yang tidak berfungsi, silahkan menambahkan issue di tab 
 
 
 ## Thanks To:
-<p>[Ad4msan](https://ad4msan/) = IP Address KumpulBagi.</p>
+<p>[Ad4msan] (https://ad4msan/) = IP Address KumpulBagi.</p>
