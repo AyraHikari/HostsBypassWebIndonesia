@@ -15,3 +15,9 @@ Cara Penggunaan:
 2) Buka My Computer > C: > Windows > System32 > Drivers > etc
 3) Pastekan di dalam directory yang tertera pada nomor 2
 
+
+
+
+
+Thanks To:
+<br><a href="ad4msan">Ad4msan</a> = IP Address Kumpulbagi
