@@ -20,4 +20,4 @@ Jika di list diatas ada yang tidak berfungsi, silahkan menambahkan issue di tab 
 
 
 ## Thanks To:
-<p>[Ad4msan] (https://ad4msan/) = IP Address KumpulBagi.</p>
+<p>[Ad4msan] (https://ad4msan.com/) = IP Address KumpulBagi.</p>
