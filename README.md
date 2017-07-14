@@ -13,7 +13,7 @@ Jika di list diatas ada yang tidak berfungsi, silahkan menambahkan issue di tab 
 ## Cara Penggunaan:
 1) Download file hosts ini dengan cara klik "Clone or Download" dan pilih "Download Zip". Pilih filenya lalu copy
 2) Buka My Computer > C: > Windows > System32 > Drivers > etc
-3) Pastekan di dalam directory yang tertera pada nomor 2
+3) Pastekan di dalam direktori yang tertera pada nomor 2
 
 
 
