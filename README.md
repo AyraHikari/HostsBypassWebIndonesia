@@ -20,5 +20,4 @@ Cara Penggunaan:
 
 
 Thanks To:
-<br><p>This is <a href="http://ad4msan.com/" title="Ad4msan">
-Ad4msan</a> Ad4msan.</p>
+<br><p><a href="http://ad4msan.com/" title="Ad4msan"></a> = IP Address KumpulBagi.</p>
