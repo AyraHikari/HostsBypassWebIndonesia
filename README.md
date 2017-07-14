@@ -10,7 +10,7 @@ List:
 
 Jika di list diatas ada yang tidak berfungsi, silahkan menambahkan issue di tab "Issues"
 
-### Cara Penggunaan:
+## Cara Penggunaan:
 1) Download file hosts ini dengan cara klik "Clone or Download" dan pilih "Download Zip". Pilih filenya lalu copy
 2) Buka My Computer > C: > Windows > System32 > Drivers > etc
 3) Pastekan di dalam directory yang tertera pada nomor 2
@@ -19,5 +19,5 @@ Jika di list diatas ada yang tidak berfungsi, silahkan menambahkan issue di tab 
 
 
 
-### Thanks To:
+## Thanks To:
 <br><p><a href="http://ad4msan.com/" title="Ad4msan">Ad4msan</a> = IP Address KumpulBagi.</p>
