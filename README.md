@@ -5,9 +5,10 @@ List:
 1) Kumpulbagi (kbagi.com)
 2) Reddit (reddit.com)
 3) Telegram (telegram.org)
-4) Iklan Spotify App PC
-5) Vimeo
-6) Beberapa software untuk menghindari check for update / checking new license
+4) Vimeo (vimeo.com)
+5) YIFY Torrent (yts.ag)
+6) Iklan Spotify App PC
+7) Beberapa software untuk menghindari check for update / checking new license
 
 Jika di list diatas ada yang tidak berfungsi, silahkan menambahkan issue di tab "Issues"
 
