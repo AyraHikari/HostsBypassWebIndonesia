@@ -6,7 +6,8 @@ List:
 2) Reddit (reddit.com)
 3) Telegram (telegram.org)
 4) Iklan Spotify App PC
-5) Beberapa software untuk menghindari check for update / checking new license
+5) Vimeo
+6) Beberapa software untuk menghindari check for update / checking new license
 
 Jika di list diatas ada yang tidak berfungsi, silahkan menambahkan issue di tab "Issues"
 
@@ -14,10 +15,11 @@ Jika di list diatas ada yang tidak berfungsi, silahkan menambahkan issue di tab 
 1) Download file hosts ini dengan cara klik "Clone or Download" dan pilih "Download Zip". Pilih filenya lalu copy
 2) Buka My Computer > C: > Windows > System32 > Drivers > etc
 3) Pastekan di dalam direktori yang tertera pada nomor 2
+4) Clear cache browser
 
 
 
 
 
 ## Thanks To:
-[Ad4msan](https://ad4msan.com/) = IP Address KumpulBagi
+[Ad4msan](https://ad4msan.com/) = IP Address KumpulBagi, Vimeo
