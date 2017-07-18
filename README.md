@@ -23,4 +23,4 @@ Jika di list diatas ada yang tidak berfungsi, silahkan menambahkan issue di tab 
 
 ## Thanks To:
 [Ad4msan](https://ad4msan.com/) = IP Address KumpulBagi, Vimeo
-[Adhe Fathur] (https://www.facebook.com/adhe.fathur) = IP Address OpenLoad
+[Adhe Fathur](https://www.facebook.com/adhe.fathur) = IP Address OpenLoad
