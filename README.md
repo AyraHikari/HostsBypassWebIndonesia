@@ -7,6 +7,7 @@ List:
 3) Telegram (telegram.org)
 4) Vimeo (vimeo.com)
 5) YIFY Torrent (yts.ag)
+6) Openload (openload.co)
 
 Jika di list diatas ada yang tidak berfungsi, silahkan menambahkan issue di tab "Issues"
 
@@ -22,3 +23,4 @@ Jika di list diatas ada yang tidak berfungsi, silahkan menambahkan issue di tab 
 
 ## Thanks To:
 [Ad4msan](https://ad4msan.com/) = IP Address KumpulBagi, Vimeo
+[Adhe Fathur] (https://www.facebook.com/adhe.fathur) = IP Address OpenLoad
