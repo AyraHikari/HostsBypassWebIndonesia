@@ -4,10 +4,9 @@ File hosts ini digunakan untuk men-bypass web yang diblokir oleh pemerintah Indo
 List:
 1) Kumpulbagi (kbagi.com)
 2) Reddit (reddit.com)
-3) Telegram (telegram.org)
-4) Vimeo (vimeo.com)
-5) YIFY Torrent (yts.ag)
-6) Openload (openload.co)
+3) Vimeo (vimeo.com)
+4) YIFY Torrent (yts.ag)
+5) Openload (openload.co)
 
 Jika di list diatas ada yang tidak berfungsi, silahkan menambahkan issue di tab "Issues"
 
