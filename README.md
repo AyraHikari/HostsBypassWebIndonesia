@@ -1,5 +1,6 @@
-# Hosts File 
-File hosts ini digunakan untuk men-bypass web yang diblokir oleh pemerintah Indonesia. Jika anda sudah memakai hosts file ini, tidak memerlukan VPN dan tool semacamnya.
+# Hosts Tool GUI
+Tool ini digunakan untuk men-bypass web yang diblokir oleh pemerintah Indonesia.
+Jika anda sudah memakai hosts file ini, tidak memerlukan VPN dan tool semacamnya.
 
 List:
 1) Kumpulbagi (kbagi.com)
@@ -11,12 +12,14 @@ List:
 Jika di list diatas ada yang tidak berfungsi, silahkan menambahkan issue di tab "Issues"
 
 ## Cara Penggunaan:
-1) Download file hosts ini dengan cara klik "Clone or Download" dan pilih "Download Zip". Pilih filenya lalu copy
-2) Buka My Computer > C: > Windows > System32 > Drivers > etc
-3) Pastekan di dalam direktori yang tertera pada nomor 2
-4) Clear cache browser
+1) Buka app ini
+2) Klik tombol patch now!
+3) Clear cache browser
 
+Note : Patch harus sekali saja!
 
+## Download
+Download link disini : [Download](https://github.com/AyraHikari/HostsBypassWebIndonesia/releases/)
 
 
 
